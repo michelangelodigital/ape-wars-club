@@ -1,0 +1,8 @@
+{
+  "name": "Ape Wars Club",
+  "description": "Apes have risen to fight for their rights to this world",
+  "external_link": "",
+  "image": "https://raw.githubusercontent.com/michelangelodigital/ape-wars-club/main/collection/logo.png",
+  "seller_fee_basis_points": 100,
+  "fee_recipient": "0x34431f1ec1EffF5e5add513f89A0b68F70e533b7"
+}
