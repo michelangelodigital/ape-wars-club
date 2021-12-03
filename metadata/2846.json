@@ -1,0 +1,24 @@
+{
+  "image": "https://gateway.pinata.cloud/ipfs/QmPr5odRyUsfqVuXXCuBQJwpfP71V3uDMSdi489YogCVwE/nft-2846.png",
+  "tokenId": 2846,
+  "name": "Angry Wars Club #02846",
+  "description": "Apes have risen to fight for their rights to this world",
+  "attributes": [
+    {
+      "trait_type": "horns",
+      "value": "Spikes"
+    },
+    {
+      "trait_type": "weapon",
+      "value": "Bat"
+    },
+    {
+      "trait_type": "defence",
+      "value": 5
+    },
+    {
+      "trait_type": "attack",
+      "value": 15
+    }
+  ]
+}

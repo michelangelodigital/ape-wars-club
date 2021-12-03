@@ -1,0 +1,20 @@
+{
+  "image": "https://gateway.pinata.cloud/ipfs/QmPr5odRyUsfqVuXXCuBQJwpfP71V3uDMSdi489YogCVwE/nft-1155.png",
+  "tokenId": 1155,
+  "name": "Angry Wars Club #01155",
+  "description": "Apes have risen to fight for their rights to this world",
+  "attributes": [
+    {
+      "trait_type": "mask",
+      "value": "Skull"
+    },
+    {
+      "trait_type": "defence",
+      "value": 11
+    },
+    {
+      "trait_type": "attack",
+      "value": 5
+    }
+  ]
+}
